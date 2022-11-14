@@ -1,0 +1,22 @@
+header {
+    background: url(../img/00.jpg);
+    height: 100px;
+}
+.logo {
+    height: 100px;
+    width: 100px;
+}
+nav {
+    float: right;
+    margin-top: 50px;
+}
+menu {
+    padding: 0px;
+    margin: 0;
+    display: block;
+}
+.menu li {
+    float: left;
+    margin-right: 35px;
+    font-family: Courier, monospace;
+}
